@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UIRelatedTextures>
+	<Items>
+		<Item>
+			<name>GREAT</name>
+			<textureItem href="Textures/FrameGreat.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>100LVL</name>
+			<textureItem href="Textures/100LVL.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>90LVL</name>
+			<textureItem href="Textures/90LVL.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>80LVL</name>
+			<textureItem href="Textures/80LVL.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>70LVL</name>
+			<textureItem href="Textures/70LVL.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>60LVL</name>
+			<textureItem href="Textures/60LVL.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>50LVL</name>
+			<textureItem href="Textures/50LVL.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>40LVL</name>
+			<textureItem href="Textures/40LVL.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>30LVL</name>
+			<textureItem href="Textures/30LVL.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>20LVL</name>
+			<textureItem href="Textures/20LVL.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>10LVL</name>
+			<textureItem href="Textures/10LVL.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>COPPER</name>
+			<textureItem href="Textures/COPPER.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>SILVER</name>
+			<textureItem href="Textures/SILVER.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>GOLDEN</name>
+			<textureItem href="Textures/GOLDEN.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>RED</name>
+			<textureItem href="Textures/RED.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+		<Item>
+			<name>BAR</name>
+			<textureItem href="/Interface/Ingame/ContextPlates/Common/GenericHealthBar/BarGauge.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+		</Item>
+	</Items>
+</UIRelatedTextures>
